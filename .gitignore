@@ -1,2 +1,3 @@
 *.pyc
 to_ignore.py
+.idea
