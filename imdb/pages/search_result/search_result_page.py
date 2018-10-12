@@ -1,5 +1,5 @@
 from imdb.pages.search_result.locators import SearchResultPageLocators
-from imdb.common.waits import DriverWaits
+from common.waits import DriverWaits
 
 
 class SearchResultPage(object):
